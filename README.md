@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Taimour Abdul Karim</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
-<img align="right" alt="Coding" width="300" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif">
+<img align="right" alt="Coding" width="250" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkarim45&label=Profile%20views&color=0e75b6&style=flat" alt="tkarim45" /> </p>
 
