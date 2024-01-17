@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Taimour Abdul Karim</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95285bg0qj762kyiwl1i0ryw0pnpgr5ul9mvdbogp42&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhws.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkarim45&label=Profile%20views&color=0e75b6&style=flat" alt="tkarim45" /> </p>
 
