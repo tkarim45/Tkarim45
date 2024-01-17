@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Taimour Abdul Karim</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/ec46a73424b2810beef85909f84c79252f442f748698f3c9cc4445d65fae4de0/68747470733a2f2f656e6163746573657276696365732e636f6d2f77702d636f6e74656e742f7468656d65732f7477656e74797477656e74792f696d616765732f686972652d646576656c6f7065722f616e696d6174696f6e5f3530305f6c347a63396a35672e676966(https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47x0xohft2ssnw9360vepqjy1nm70kx1e7h7q9fghd&ep=v1_gifs_search&rid=200.webp&ct=g)">
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/ec46a73424b2810beef85909f84c79252f442f748698f3c9cc4445d65fae4de0/68747470733a2f2f656e6163746573657276696365732e636f6d2f77702d636f6e74656e742f7468656d65732f7477656e74797477656e74792f696d616765732f686972652d646576656c6f7065722f616e696d6174696f6e5f3530305f6c347a63396a35672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkarim45&label=Profile%20views&color=0e75b6&style=flat" alt="tkarim45" /> </p>
 
