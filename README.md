@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/227755997/3171d680-1d98-11ea-9bfd-51ba32490a41)
 
 <h1 align="center">Hi 👋, I'm Taimour Abdul Karim</h1>
-<h3 align="center">A passionate Data Scientist from Pakistan</h3>
+<h3 align="center">A Passionate Data Scientist from Pakistan</h3>
 
 <img align="right" alt="Coding" width="250" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif">
 
