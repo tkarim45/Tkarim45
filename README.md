@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Generative AI, Docker and Kubernete**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tkarim45/Data-Science/tree/main/Projects](https://github.com/tkarim45/Data-Science/tree/main/Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/tkarim45/Data-Science-Projects](https://github.com/tkarim45/Data-Science-Projects)
 
 - 💬 Ask me about **Artificial Intelligence, Machine Learning and Deep Learning**
 
