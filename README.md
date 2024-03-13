@@ -31,7 +31,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taimour a. karim" height="30" width="40" /></a>
   <a href="https://instagram.com/tkarim45" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tkarim45" height="30" width="40" /></a>
-</p>&nbsp;
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -72,7 +72,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkarim45&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="tkarim45" />
 </p>
 
-<p>&nbsp;
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkarim45&show_icons=true&locale=en&theme=dark&hide_border=true" alt="tkarim45" />
 </p>
 
