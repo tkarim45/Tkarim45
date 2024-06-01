@@ -1,17 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/227755997/3171d680-1d98-11ea-9bfd-51ba32490a41)
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/taimour_20 rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-3edef43f-2f48-4e19-82f5-8423cbc9de78' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >taimour_20</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>With a strong foundation in data science, I am passionate about harnessing data to solve pressing challenges and drive organizational objectives. I bring a wealth of expertise in machine learning, statistical analysis, and programming, and I actively seek opportunities to apply these skills in complex, data-driven initiatives. Building data-driven models to address challenging problems is not only a professional pursuit but also a personal passion. </div>
-        </div>
-    </a>
-</div>
-
 <script id='fiverr-seller-widget-script-3edef43f-2f48-4e19-82f5-8423cbc9de78' src='https://widgets.fiverr.com/api/v1/seller/taimour_20?widget_id=3edef43f-2f48-4e19-82f5-8423cbc9de78' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
 
 <h1 align="center">Hi 👋, I'm Taimour Abdul Karim</h1>
