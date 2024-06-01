@@ -1,7 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/227755997/3171d680-1d98-11ea-9bfd-51ba32490a41)
 
-<script id='fiverr-seller-widget-script-3edef43f-2f48-4e19-82f5-8423cbc9de78' src='https://widgets.fiverr.com/api/v1/seller/taimour_20?widget_id=3edef43f-2f48-4e19-82f5-8423cbc9de78' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
-
 <h1 align="center">Hi 👋, I'm Taimour Abdul Karim</h1>
 <h3 align="center">A Passionate Data Scientist from Pakistan</h3>
 
