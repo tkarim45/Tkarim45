@@ -15,11 +15,11 @@
 ## About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=srv32003&label=Profile%20views&color=0e75b6&style=flat"/> </a>
 <ul>
 
-<li>🎓 🌱 I’m currently learning **Generative AI, Docker and Kubernete**.</li>
+<li>🎓 🌱 I’m currently learning Generative AI, Docker and Kubernete.</li>
 <li>💻 All of my projects are available at [https://github.com/tkarim45/Data-Science-Projects](https://github.com/tkarim45/Data-Science-Projects).</li>
-<li>🧠 💬 Ask me about **Artificial Intelligence, Machine Learning and Deep Learning**</li>
-<li>📫 How to reach me **taimourabdulkarim20@gmail.com**</li>
-<li>Fun fact **I like Golf**</li>
+<li>🧠 💬 Ask me about Artificial Intelligence, Machine Learning and Deep Learning.</li>
+<li>📫 How to reach me taimourabdulkarim20@gmail.com</li>
+<li>Fun fact I like Golf.</li>
 
 </ul>
 
