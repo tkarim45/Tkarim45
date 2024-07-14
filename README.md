@@ -12,6 +12,9 @@
 
 <img align="right" alt="Coding" width="250" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif">
 
+## About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=srv32003&label=Profile%20views&color=0e75b6&style=flat"/> </a>
+<ul>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkarim45&label=Profile%20views&color=0e75b6&style=flat" alt="tkarim45" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tkarim45" target="blank"><img src="https://img.shields.io/twitter/follow/tkarim45?logo=twitter&style=for-the-badge" alt="tkarim45" /></a> </p>
