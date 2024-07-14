@@ -17,7 +17,7 @@ interest in networking and collaboration for progressive advancements.</p>
 
 
 ## About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=srv32003&label=Profile%20views&color=0e75b6&style=flat"/> </a>
-<img align="right" alt="coding" height=200px width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="coding" height=200px width="300" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 <ul>
 
 <li>🎓 🌱 I’m currently learning Generative AI, Docker and Kubernete.</li>
