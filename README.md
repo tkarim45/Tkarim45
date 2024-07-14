@@ -5,10 +5,12 @@
 <p align="center">
 <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif"/>
 </p>
+<br />
 
 <p>Dynamic and results-driven data scientist with a robust background in machine learning, deep learning and
 artificial intelligemce. Demonstrated commitment to continuous learning and professional growth, with a keen
 interest in networking and collaboration for progressive advancements.</p>
+<br />
 
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
