@@ -47,16 +47,6 @@ interest in networking and collaboration for progressive advancements.</p>
 <br />
 
 
-
-<h2 align="center">🏆 Github Contributions 🏆 </h2>
-
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=morpheus-30&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nakshatra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morpheus-30&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
