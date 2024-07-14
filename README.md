@@ -14,20 +14,19 @@ interest in networking and collaboration for progressive advancements.</p>
 
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
-<img style="flex: 0 0 300px; margin-top: 20px;" align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <h2>About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=srv32003&label=Profile%20views&color=0e75b6&style=flat"/> </a></h2>
-        <ul>
-            <li>🎓 🌱 I’m currently learning Generative AI, Docker, and Kubernetes.</li>
-            <li>💻 All of my projects are available at <a href="https://github.com/tkarim45/Data-Science-Projects">https://github.com/tkarim45/Data-Science-Projects</a>.</li>
-            <li>🧠 💬 Ask me about Artificial Intelligence, Machine Learning, and Deep Learning.</li>
-            <li>📫 How to reach me: taimourabdulkarim20@gmail.com</li>
-            <li>Fun fact: I like Golf.</li>
-        </ul>
-    </div>
-</div>
-<br />
+<img align="right" width="300" height="300" style="margin:0px 20px" src="https://iili.io/J08w4je.gif" >
+<br>
+
+## About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=srv32003&label=Profile%20views&color=0e75b6&style=flat"/> </a>
+<ul>
+
+<li>🎓 🌱 I’m currently learning Generative AI, Docker and Kubernete.</li>
+<li>💻 All of my projects are available at [https://github.com/tkarim45/Data-Science-Projects](https://github.com/tkarim45/Data-Science-Projects).</li>
+<li>🧠 💬 Ask me about Artificial Intelligence, Machine Learning and Deep Learning.</li>
+<li>📫 How to reach me taimourabdulkarim20@gmail.com</li>
+<li>Fun fact I like Golf.</li>
+
+</ul>
 
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
