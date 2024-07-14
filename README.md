@@ -14,6 +14,7 @@ interest in networking and collaboration for progressive advancements.</p>
 
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <h2>About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=srv32003&label=Profile%20views&color=0e75b6&style=flat"/> </a></h2>
@@ -24,9 +25,6 @@ interest in networking and collaboration for progressive advancements.</p>
             <li>📫 How to reach me: taimourabdulkarim20@gmail.com</li>
             <li>Fun fact: I like Golf.</li>
         </ul>
-    </div>
-    <div>
-        <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
     </div>
 </div>
 <br />
