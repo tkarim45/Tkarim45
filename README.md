@@ -46,6 +46,9 @@ interest in networking and collaboration for progressive advancements.</p>
 </a>
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehmanrattu&show_icons=true&locale=en&layout=compact" alt="abdulrehmanrattu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrehmanrattu&show_icons=true&locale=en" alt="abdulrehmanrattu" /></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
