@@ -2,10 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&center=true&random=false&width=1000&lines=Welcome+to+My+Github+!!;I+am+a+Crazy+Developer.+;Let's+Begin+the+Journey+to+my+World+!!)](https://git.io/typing-svg)
 
-![MasterHead](https://repository-images.githubusercontent.com/227755997/3171d680-1d98-11ea-9bfd-51ba32490a41)
-
+<p align="center">
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif"/>
+</p>
 
 <h3 align="center">A Passionate Data Scientist from Pakistan</h3>
+
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
 <img align="right" alt="Coding" width="250" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif">
 
