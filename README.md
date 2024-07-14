@@ -14,7 +14,9 @@ interest in networking and collaboration for progressive advancements.</p>
 
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
-
+<p align="center">
+<img align="middle" height=250px width=500px alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
+</p>
 ## About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=srv32003&label=Profile%20views&color=0e75b6&style=flat"/> </a>
 <ul>
 
