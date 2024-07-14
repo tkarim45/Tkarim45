@@ -10,7 +10,11 @@
 
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
-<img align="right" alt="Coding" width="250" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif">
+<img align="right" width="300" height="300" style="margin:0px 20px" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif">
+<br>
+  <a align='center' href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=morpheus-30&label=Profile%20Views&color=12&pretty=true" />
+</a>
 
 ## About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=srv32003&label=Profile%20views&color=0e75b6&style=flat"/> </a>
 <ul>
