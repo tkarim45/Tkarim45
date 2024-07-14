@@ -14,9 +14,10 @@ interest in networking and collaboration for progressive advancements.</p>
 
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
-<img align="right" width="300" height="300" style="margin:0px 200px" src="https://iili.io/J08w4je.gif" >
+
 
 ## About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=srv32003&label=Profile%20views&color=0e75b6&style=flat"/> </a>
+<img align="right" width="300" height="300" style="margin:0px 200px" src="https://iili.io/J08w4je.gif" >
 <ul>
 
 <li>🎓 🌱 I’m currently learning Generative AI, Docker and Kubernete.</li>
