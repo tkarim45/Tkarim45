@@ -47,9 +47,9 @@ interest in networking and collaboration for progressive advancements.</p>
 <br />
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Contributions 🏆</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehmanrattu&show_icons=true&locale=en&layout=compact" alt="abdulrehmanrattu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkarim45&show_icons=true&locale=en&layout=compact" alt="tkarim45" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrehmanrattu&show_icons=true&locale=en" alt="abdulrehmanrattu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkarim45&show_icons=true&locale=en" alt="tkarim45" /></p>
 
 <br />
 <p align="center">
