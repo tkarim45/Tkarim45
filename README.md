@@ -1,6 +1,10 @@
+<h1 align="center">Hi 👋, I'm Taimour Abdul Karim</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&center=true&random=false&width=1000&lines=Welcome+to+My+Github+!!;I+am+a+Crazy+Developer.+;Let's+Begin+the+Journey+to+my+World+!!)](https://git.io/typing-svg)
+
 ![MasterHead](https://repository-images.githubusercontent.com/227755997/3171d680-1d98-11ea-9bfd-51ba32490a41)
 
-<h1 align="center">Hi 👋, I'm Taimour Abdul Karim</h1>
+
 <h3 align="center">A Passionate Data Scientist from Pakistan</h3>
 
 <img align="right" alt="Coding" width="250" src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif">
