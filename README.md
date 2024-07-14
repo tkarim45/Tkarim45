@@ -25,9 +25,6 @@ interest in networking and collaboration for progressive advancements.</p>
             <li>Fun fact: I like Golf.</li>
         </ul>
     </div>
-    <div>
-        <img align="right" width="300" height="300" src="https://iili.io/J08w4je.gif" />
-    </div>
 </div>
 
 
