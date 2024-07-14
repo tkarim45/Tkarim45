@@ -47,10 +47,9 @@ interest in networking and collaboration for progressive advancements.</p>
 <br />
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Contributions 🏆</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkarim45&show_icons=true&locale=en&layout=compact" alt="tkarim45" /></p>
 
-
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tkarim45&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Taimour's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkarim45&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkarim45&show_icons=true&locale=en" alt="tkarim45" /></p>
 
 
 <br />
