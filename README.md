@@ -16,7 +16,7 @@ interest in networking and collaboration for progressive advancements.</p>
 
 
 
-## About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=tkarim45&label=Profile%20views&color=000000&style=flat"/> </a>
+## About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=tkarim45&label=Profile%20views&color=#000000&style=flat"/> </a>
 <img align="right" alt="coding" height=200px width="300" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 <ul>
 
