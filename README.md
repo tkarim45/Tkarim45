@@ -28,7 +28,7 @@ interest in networking and collaboration for progressive advancements.</p>
 
 </ul>
 
-<br /><br />
+<br />
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="700px"  src="https://skillicons.dev/icons?i=py,go,js,html,css,react,express,flask,md,postgres,mongo,git,vscode,docker,gcp,postman,kali,npm,pytorch,cpp,c,ubuntu,bash,spring&perline=12"  />
