@@ -37,6 +37,7 @@ interest in networking and collaboration for progressive advancements.</p>
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
+ 
  <a href="https://www.linkedin.com/in/taimour-abdul-k-353797178/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -44,7 +45,11 @@ interest in networking and collaboration for progressive advancements.</p>
 <a href="mailto:taimourabdulkarim20@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
-![taimourabdulkarim](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{taimourabdulkarim})
+
+<a href="https://www.kaggle.com/taimourabdulkarim" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=black alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
 <br />
 
 
