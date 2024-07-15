@@ -54,6 +54,10 @@ interest in networking and collaboration for progressive advancements.</p>
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=black" />
 </a>
 
+<a href="https://x.com/tkarim45_" target="_blank">
+<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+</a>
+
 <br />
 
 
