@@ -21,7 +21,7 @@ interest in networking and collaboration for progressive advancements.</p>
 <ul>
 
 <li>🎓 🌱 I’m currently learning Generative AI, Docker and Kubernete.</li>
-<li>💻 All of my projects are available at [https://github.com/tkarim45/Data-Science-Projects](https://github.com/tkarim45/Data-Science-Projects).</li>
+<li>💻 All of my projects are available at [https://github.com/tkarim45/Data-Science-Projects](https://github.com/tkarim45/Data-Science-Projects)</li>
 <li>🧠 💬 Ask me about Artificial Intelligence, Machine Learning and Deep Learning.</li>
 <li>📫 How to reach me taimourabdulkarim20@gmail.com</li>
 <li>Fun fact I like Golf.</li>
