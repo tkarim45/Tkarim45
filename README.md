@@ -44,7 +44,10 @@ interest in networking and collaboration for progressive advancements.</p>
 <a href="mailto:taimourabdulkarim20@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
+![taimourabdulkarim](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{taimourabdulkarim})
 <br />
+
+
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Contributions 🏆</h2>
 
