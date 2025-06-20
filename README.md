@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taimour Abdul Karim</h1>
+<h1 align="center">Hi 👋, I'm Taimour Abdul Karim</h1>>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&center=true&random=false&width=1000&lines=Welcome+to+My+Github+!!;I+am+a+Crazy+Developer.+;Let's+Begin+the+Journey+to+my+World+!!)](https://git.io/typing-svg)
 
