@@ -10,11 +10,11 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 
-<p>Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and intelligent voice agents. Skilled in Python, LangChain, OpenAI, LlamaIndex, and LangGraph. Proven success working on international projects, delivering scalable solutions, and pushing boundaries in real-world AI applications.</p>
+<h3>Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and intelligent voice agents. Skilled in Python, LangChain, OpenAI, LlamaIndex, and LangGraph. Proven success working on international projects, delivering scalable solutions, and pushing boundaries in real-world AI applications.</h3>
 
-<br/>
+<br/><br/><br/><br/>
 
-## About Me <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=tkarim45&label=Profile%20Views&color=6&icon=0&pretty=true"/></a>
+<h2>About Me <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=tkarim45&label=Profile%20Views&color=6&icon=0&pretty=true"/></a></h2>
 
 - 🤖 Building **LLM-based systems, RAG chatbots & AI agents**
 - 💻 All of my projects are available at [Data-Science-Projects](https://github.com/tkarim45/Data-Science-Projects)
