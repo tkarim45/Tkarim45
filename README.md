@@ -8,11 +8,9 @@
 
 <br/>
 
-<p>Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and intelligent voice agents. Skilled in Python, LangChain, OpenAI, LlamaIndex, and LangGraph. Proven success working on international projects, delivering scalable solutions, and pushing boundaries in real-world AI applications.</p>
+<img align="right" height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 
-<p align="center">
-<img height="250" width="450" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
-</p>
+<p>Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and intelligent voice agents. Skilled in Python, LangChain, OpenAI, LlamaIndex, and LangGraph. Proven success working on international projects, delivering scalable solutions, and pushing boundaries in real-world AI applications.</p>
 
 <br/>
 
@@ -61,13 +59,10 @@
 <br/>
 
 <p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkarim45&theme=tokyonight" alt="Stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkarim45&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkarim45&theme=tokyonight" alt="Most Commit Language"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkarim45&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkarim45&theme=tokyonight" alt="Stats"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkarim45&theme=tokyonight" alt="Top Languages"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkarim45&theme=tokyonight" alt="Most Commit Language"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkarim45&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
 </p>
 
 <p align="center">
