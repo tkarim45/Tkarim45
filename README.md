@@ -10,11 +10,11 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 
-<h3>Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and intelligent voice agents. Skilled in Python, LangChain, OpenAI, LlamaIndex, and LangGraph. Proven success working on international projects, delivering scalable solutions, and pushing boundaries in real-world AI applications.</h3>
+<p align="center" style="font-size:18px;">Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and intelligent voice agents. Skilled in Python, LangChain, OpenAI, LlamaIndex, and LangGraph. Proven success working on international projects, delivering scalable solutions, and pushing boundaries in real-world AI applications.</p>
 
 <br/><br/><br/><br/>
 
-<h2>About Me <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=tkarim45&label=Profile%20Views&color=6&icon=0&pretty=true"/></a></h2>
+<h2>About Me</h2>
 
 - 🤖 Building **LLM-based systems, RAG chatbots & AI agents**
 - 💻 All of my projects are available at [Data-Science-Projects](https://github.com/tkarim45/Data-Science-Projects)
@@ -66,11 +66,8 @@
 </p>
 
 <p align="center">
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=tkarim45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=tkarim45&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tkarim45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tkarim45&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 <br/>
