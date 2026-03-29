@@ -4,13 +4,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer+%7C+Data+Scientist;Building+LLM+Systems+%26+RAG+Pipelines;MSc+AI+%40+LUMS+%7C+Pushing+AI+Boundaries" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-<img height="250" width="500" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
-</p>
-
 <br/>
 
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="middle" align="center">
+<img height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
+</td>
+<td width="50%" valign="top">
 <p>Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and intelligent voice agents. Skilled in Python, LangChain, OpenAI, LlamaIndex, and LangGraph. Proven success working on international projects, delivering scalable solutions, and pushing boundaries in real-world AI applications.</p>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -20,8 +25,6 @@
 
 <img align="right" alt="coding" height="200" width="300" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
-- 🎓 MSc in Artificial Intelligence at **LUMS** (2024 - Present)
-- 💼 AI/ML Engineer at **Datality, London** (Remote)
 - 🤖 Building **LLM-based systems, RAG chatbots & AI agents**
 - 💻 All of my projects are available at [Data-Science-Projects](https://github.com/tkarim45/Data-Science-Projects)
 - 💬 Ask me about **LLMs, RAG, LangChain, Deep Learning**
@@ -30,83 +33,16 @@
 
 <br/><br/>
 
-## Work Experience
-
-| Role | Company | Duration |
-|------|---------|----------|
-| **AI/ML Engineer** | Datality, London (Remote) | Jan 2025 - Present |
-| **AI/ML Engineer** | Qult Technologies, Lahore | Aug 2024 - Dec 2025 |
-| **Data Scientist** | BornGreat, California (Remote) | Sep 2023 - Aug 2024 |
-| **Python Developer (Intern)** | Spyresync, Lahore | Jun 2022 - Aug 2022 |
-
-<br/>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Medical Agentic RAG System
-Agentic RAG system that analyzes medical reports, diagnoses images, schedules appointments via calendar API, and fetches real-time data from PostgreSQL with zero hallucination. Built with LangChain, Hugging Face, Pinecone, and deployed on Docker.
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 RAG System using LangChain
-QA system using LangChain with Hugging Face embeddings for semantic understanding, FAISS for efficient document retrieval, and OpenAI's GPT for generating context-based answers.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 Automated Summary Evaluator (FYP)
-Collected and processed ADHD datasets from multiple NGOs to assess student summaries using LLMs as regressors. Deployed with CI/CD pipelines on GitHub and containerized with Docker.
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Social Media Analytics
-Extracted data from social media platforms using Selenium and APIs. Utilized NLP and LLMs for sentiment analysis to assess supply, demand, and competitor insights. Deployed via FastAPI with GitHub Actions CI/CD.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Education
-
-| Degree | University | Duration |
-|--------|-----------|----------|
-| **MSc in Artificial Intelligence** | Lahore University of Management Sciences (LUMS) | Sep 2024 - Present |
-| **BSc in Data Science** | National University of Computing and Emerging Sciences (FAST-NUCES) | Sep 2020 - Jun 2024 |
-
-<br/>
-
-## Awards
-
-🥈 **2nd Place - Genesis Hackathon Dubai** — Outstanding innovation and teamwork in delivering a high-impact AI project
-
-🏆 **Exceptional Deputy Head (SOFTEC)** — Recognized for outstanding leadership and exceptional contributions
-
-<br/>
-
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css&perline=12" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,sql,js,html,css,bash&perline=14" alt="Languages"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=12" alt="AI/ML"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,openai,langchain,huggingface,pinecone&perline=14" alt="AI/ML & LLM"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=langchain,huggingface,openai,pinecone&perline=12" alt="LLM Stack" onerror="this.style.display='none'"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,selenium&perline=14" alt="Frameworks"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,flask,fastapi,express,django&perline=12" alt="Web"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,githubactions&perline=12" alt="DevOps"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongo,selenium,postman,vscode,linux,bash&perline=12" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,githubactions,postgres,mongo&perline=14" alt="DevOps & Data"/>
 </p>
 
 <br/>
