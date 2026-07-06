@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Taimour%20Abdul%20Karim&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20Data%20Scientist&descAlignY=52&descSize=20&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:2563eb,100:38bdf8&height=200&section=header&text=Taimour%20Abdul%20Karim&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20Data%20Scientist&descAlignY=52&descSize=20&animation=twinkling"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Building+LLM+Systems+%26+RAG+Pipelines;LLM+Evaluation%2C+Safety+%26+AI+Agents;MLOps+from+Data+Pipelines+to+Deployment;MSc+AI+%40+LUMS+%7C+3%2B+yrs+Production+ML" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Building+LLM+Systems+%26+RAG+Pipelines;LLM+Evaluation%2C+Safety+%26+AI+Agents;MLOps+from+Data+Pipelines+to+Deployment;MSc+AI+%40+LUMS+%7C+3%2B+yrs+Production+ML" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=tkarim45&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/GitHub%20Stars-2.5k%2B-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=tkarim45&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/GitHub%20Stars-2.5k%2B-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
 <img src="https://img.shields.io/badge/🏆%20Genesis%20Hackathon%20Dubai-2nd%20Place-FFD700?style=for-the-badge&logoColor=black" alt="Hackathon"/>
 </p>
 
@@ -27,7 +27,7 @@ AI/ML Engineer and Data Scientist with **3+ years** building production machine-
 <h2 align="center">🏆 Achievements & Recognition</h2>
 
 <p align="center">
-<a href="https://github.com/tkarim45/Beginner-Data-Science-Projects"><img src="https://img.shields.io/badge/2%2C400%2B%20Stars-Beginner%20Data%20Science%20Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Beginner Data Science Projects"/></a>
+<a href="https://github.com/tkarim45/Beginner-Data-Science-Projects"><img src="https://img.shields.io/badge/2%2C400%2B%20Stars-Beginner%20Data%20Science%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Beginner Data Science Projects"/></a>
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ AI/ML Engineer and Data Scientist with **3+ years** building production machine-
 <h2 align="center">🧬 How I Ship</h2>
 
 <p align="center">
-<img width="90%" alt="Data to Ship pipeline animation" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/assets/pipeline.svg?v=3"/>
+<img width="90%" alt="Shipping and measuring LLM systems" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/assets/pipeline.svg?v=4"/>
 </p>
 
 <br/>
@@ -134,14 +134,14 @@ Input/output safety firewall: prompt-injection detection, PII redaction, toxicit
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkarim45&theme=tokyonight" alt="Stats"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkarim45&theme=tokyonight" alt="Top Languages"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkarim45&theme=tokyonight" alt="Most Commit Language"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkarim45&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkarim45&theme=github_dark" alt="Stats"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkarim45&theme=github_dark" alt="Top Languages"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkarim45&theme=github_dark" alt="Most Commit Language"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkarim45&theme=github_dark&utcOffset=5" alt="Productive Time"/>
 </p>
 
 <p align="center">
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=tkarim45&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=tkarim45&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=38bdf8&line=38bdf8&point=ffffff" alt="Activity Graph"/>
 </p>
 
 <br/>
@@ -170,4 +170,4 @@ Input/output safety firewall: prompt-injection detection, PII redaction, toxicit
 
 <p align="center"><i>⭐️ From <a href="https://github.com/tkarim45">tkarim45</a>. Every result stated against a baseline.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:2563eb,100:38bdf8&height=100&section=footer"/>
