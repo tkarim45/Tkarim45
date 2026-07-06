@@ -39,7 +39,7 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_time: yes
 
-      - name: Contribution calendar
+      - name: Contribution calendar (flat)
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -47,5 +47,5 @@ jobs:
           filename: github-metrics-calendar.svg
           base: ""
           config_timezone: Asia/Karachi
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
