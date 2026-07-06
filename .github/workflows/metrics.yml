@@ -40,13 +40,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_ignored: html, css, scss, tex, jupyter notebook
 
-          # Coding habits (facts + charts)
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
           # 3D isometric contribution calendar (last 12 months)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
