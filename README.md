@@ -126,10 +126,8 @@ Input/output safety firewall: prompt-injection detection, PII redaction, toxicit
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkarim45&theme=github_dark" alt="Stats"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkarim45&theme=github_dark" alt="Top Languages"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkarim45&theme=github_dark" alt="Most Commit Language"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkarim45&theme=github_dark&utcOffset=5" alt="Productive Time"/>
+<img width="49%" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/github-metrics.svg" alt="GitHub Metrics — stats, languages, habits"/>
+<img width="49%" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/github-metrics-calendar.svg" alt="GitHub Metrics — contribution calendar"/>
 </p>
 
 <p align="center">
