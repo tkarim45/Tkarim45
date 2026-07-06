@@ -40,6 +40,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_ignored: html, css, scss, tex, jupyter notebook
 
-          # 3D isometric contribution calendar (last 12 months)
+          # 3D isometric contribution calendar (half-year keeps the run light
+          # enough that the languages plugin still gets its GraphQL quota)
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
