@@ -1,178 +1,197 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="'Fira Code','SFMono-Regular',ui-monospace,monospace">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 320" width="900" height="320" font-family="'Fira Code','SFMono-Regular',ui-monospace,monospace">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1">
-      <stop offset="0" stop-color="#0b0a1a"/>
-      <stop offset="0.5" stop-color="#140f2e"/>
-      <stop offset="1" stop-color="#050410"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0" stop-color="#07061a"/>
+      <stop offset="0.5" stop-color="#100a2e"/>
+      <stop offset="1" stop-color="#04030d"/>
     </linearGradient>
-    <radialGradient id="core" cx="0.5" cy="0.42" r="0.55">
-      <stop offset="0" stop-color="#6C63FF" stop-opacity="0.55"/>
-      <stop offset="0.5" stop-color="#3b2a7a" stop-opacity="0.25"/>
-      <stop offset="1" stop-color="#3b2a7a" stop-opacity="0"/>
+    <radialGradient id="vign" cx="0.5" cy="0.45" r="0.75">
+      <stop offset="0.55" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+    <radialGradient id="core" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#6C63FF" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#6C63FF" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="titleGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#eae6ff"/>
+      <stop offset="0" stop-color="#f2efff"/>
       <stop offset="0.55" stop-color="#b8a9ff"/>
-      <stop offset="1" stop-color="#7c6cff"/>
+      <stop offset="1" stop-color="#6f5cff"/>
     </linearGradient>
-    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="conduitGrad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#3d59a1"/>
-      <stop offset="0.5" stop-color="#8b7dff"/>
-      <stop offset="1" stop-color="#c9a6ff"/>
+      <stop offset="0.4" stop-color="#7c6cff"/>
+      <stop offset="0.7" stop-color="#bb9af7"/>
+      <stop offset="1" stop-color="#9ece6a"/>
     </linearGradient>
     <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="0.5" stop-color="#b8a9ff" stop-opacity="0.12"/>
       <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
-    <radialGradient id="sBlue"   cx="0.35" cy="0.3" r="0.75"><stop offset="0" stop-color="#dbe6ff"/><stop offset="0.4" stop-color="#7aa2f7"/><stop offset="1" stop-color="#1b2a55"/></radialGradient>
-    <radialGradient id="sPurple" cx="0.35" cy="0.3" r="0.75"><stop offset="0" stop-color="#e6ddff"/><stop offset="0.4" stop-color="#6C63FF"/><stop offset="1" stop-color="#241a52"/></radialGradient>
-    <radialGradient id="sViolet" cx="0.35" cy="0.3" r="0.75"><stop offset="0" stop-color="#f2e6ff"/><stop offset="0.4" stop-color="#bb9af7"/><stop offset="1" stop-color="#3a2154"/></radialGradient>
-    <radialGradient id="sGreen"  cx="0.35" cy="0.3" r="0.75"><stop offset="0" stop-color="#e4ffe0"/><stop offset="0.4" stop-color="#9ece6a"/><stop offset="1" stop-color="#1f3315"/></radialGradient>
-    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="3.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="bloom" x="-120%" y="-120%" width="340%" height="340%">
-      <feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="frame"><rect x="1" y="1" width="898" height="298" rx="20"/></clipPath>
-    <clipPath id="floor"><rect x="0" y="182" width="900" height="118"/></clipPath>
+    <radialGradient id="pkt" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="0.4" stop-color="#c9b6ff"/><stop offset="1" stop-color="#6C63FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sBlue"   cx="0.35" cy="0.3" r="0.75"><stop offset="0" stop-color="#dbe6ff"/><stop offset="0.4" stop-color="#7aa2f7"/><stop offset="1" stop-color="#152047"/></radialGradient>
+    <radialGradient id="sPurple" cx="0.35" cy="0.3" r="0.75"><stop offset="0" stop-color="#e6ddff"/><stop offset="0.4" stop-color="#6C63FF"/><stop offset="1" stop-color="#1d1547"/></radialGradient>
+    <radialGradient id="sViolet" cx="0.35" cy="0.3" r="0.75"><stop offset="0" stop-color="#f2e6ff"/><stop offset="0.4" stop-color="#bb9af7"/><stop offset="1" stop-color="#301a4a"/></radialGradient>
+    <radialGradient id="sGreen"  cx="0.35" cy="0.3" r="0.75"><stop offset="0" stop-color="#e4ffe0"/><stop offset="0.4" stop-color="#9ece6a"/><stop offset="1" stop-color="#182b0f"/></radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="bloom" x="-160%" y="-160%" width="420%" height="420%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect x="1" y="1" width="898" height="318" rx="22"/></clipPath>
+    <path id="conduit" d="M150,168 C240,108 300,112 360,146 C430,186 500,120 560,150 C630,184 700,108 750,140" fill="none"/>
   </defs>
 
   <g clip-path="url(#frame)">
-    <rect width="900" height="300" fill="url(#bg)"/>
-    <ellipse cx="450" cy="150" rx="520" ry="230" fill="url(#core)"/>
+    <rect width="900" height="320" fill="url(#bg)"/>
+    <ellipse cx="450" cy="150" rx="560" ry="230" fill="url(#core)"/>
 
-    <!-- starfield -->
-    <g fill="#c9d4ff">
-      <circle cx="80" cy="46" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite"/></circle>
-      <circle cx="820" cy="60" r="1.4"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
-      <circle cx="700" cy="34" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.7s" repeatCount="indefinite"/></circle>
-      <circle cx="180" cy="70" r="1"><animate attributeName="opacity" values="1;0.2;1" dur="2.9s" repeatCount="indefinite"/></circle>
-      <circle cx="560" cy="42" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="4.2s" repeatCount="indefinite"/></circle>
-      <circle cx="300" cy="30" r="0.9"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/></circle>
-    </g>
-
-    <!-- perspective floor grid -->
-    <g clip-path="url(#floor)" stroke="#6C63FF" stroke-opacity="0.30" fill="none">
-      <g stroke-width="1">
-        <line x1="450" y1="182" x2="-120" y2="300"/>
-        <line x1="450" y1="182" x2="60"   y2="300"/>
-        <line x1="450" y1="182" x2="200"  y2="300"/>
-        <line x1="450" y1="182" x2="320"  y2="300"/>
-        <line x1="450" y1="182" x2="410"  y2="300"/>
-        <line x1="450" y1="182" x2="490"  y2="300"/>
-        <line x1="450" y1="182" x2="580"  y2="300"/>
-        <line x1="450" y1="182" x2="700"  y2="300"/>
-        <line x1="450" y1="182" x2="840"  y2="300"/>
-        <line x1="450" y1="182" x2="1020" y2="300"/>
-      </g>
-      <g stroke-width="1">
-        <g>
-          <line x1="0" y1="188" x2="900" y2="188"/>
-          <line x1="0" y1="197" x2="900" y2="197"/>
-          <line x1="0" y1="210" x2="900" y2="210"/>
-          <line x1="0" y1="228" x2="900" y2="228"/>
-          <line x1="0" y1="252" x2="900" y2="252"/>
-          <line x1="0" y1="284" x2="900" y2="284"/>
-          <animateTransform attributeName="transform" type="translate" values="0 0;0 20" dur="1.6s" repeatCount="indefinite" additive="sum"/>
-        </g>
+    <!-- parallax starfield: far layer -->
+    <g fill="#8f9ad6" opacity="0.8">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;-40 0;0 0" dur="40s" repeatCount="indefinite"/>
+        <circle cx="60" cy="40" r="0.9"/><circle cx="210" cy="26" r="0.8"/><circle cx="380" cy="52" r="0.9"/>
+        <circle cx="520" cy="30" r="0.8"/><circle cx="690" cy="44" r="0.9"/><circle cx="840" cy="28" r="0.8"/>
+        <circle cx="150" cy="70" r="0.7"/><circle cx="470" cy="76" r="0.7"/><circle cx="770" cy="72" r="0.7"/>
       </g>
     </g>
-    <!-- horizon glow -->
-    <rect x="0" y="180" width="900" height="3" fill="#8b7dff">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.6s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="0" y="176" width="900" height="10" fill="#6C63FF" opacity="0.25" filter="url(#bloom)"/>
-
-    <!-- cinematic light sweep -->
-    <g transform="skewX(-16)">
-      <rect x="-260" y="-40" width="150" height="420" fill="url(#sweep)">
-        <animate attributeName="x" values="-320;1120" dur="6.5s" repeatCount="indefinite"/>
-      </rect>
+    <!-- near layer, twinkle -->
+    <g fill="#d7ddff">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;24 0;0 0" dur="26s" repeatCount="indefinite"/>
+        <circle cx="110" cy="52" r="1.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite"/></circle>
+        <circle cx="300" cy="38" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
+        <circle cx="600" cy="34" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.7s" repeatCount="indefinite"/></circle>
+        <circle cx="820" cy="58" r="1.2"><animate attributeName="opacity" values="1;0.2;1" dur="2.9s" repeatCount="indefinite"/></circle>
+      </g>
     </g>
 
-    <!-- 3D extruded title -->
-    <g text-anchor="middle" font-weight="700" font-size="38" letter-spacing="2">
+    <!-- ===== neural constellation (background) ===== -->
+    <g stroke="#6C63FF" stroke-opacity="0.22" stroke-width="1" fill="none">
+      <g stroke-dasharray="5 9">
+        <animate attributeName="stroke-dashoffset" values="0;-28" dur="2.4s" repeatCount="indefinite"/>
+        <line x1="70" y1="70" x2="150" y2="130"/>
+        <line x1="150" y1="130" x2="250" y2="60"/>
+        <line x1="250" y1="60" x2="470" y2="70"/>
+        <line x1="470" y1="70" x2="520" y2="120"/>
+        <line x1="520" y1="120" x2="600" y2="60"/>
+        <line x1="600" y1="60" x2="770" y2="80"/>
+        <line x1="770" y1="80" x2="845" y2="185"/>
+        <line x1="845" y1="185" x2="655" y2="215"/>
+        <line x1="655" y1="215" x2="430" y2="235"/>
+        <line x1="430" y1="235" x2="330" y2="205"/>
+        <line x1="330" y1="205" x2="200" y2="245"/>
+        <line x1="200" y1="245" x2="150" y2="130"/>
+        <line x1="470" y1="70" x2="430" y2="235"/>
+        <line x1="520" y1="120" x2="655" y2="215"/>
+      </g>
+    </g>
+    <!-- constellation nodes + faint stack tags -->
+    <g fill="#9d92ff">
+      <circle cx="70"  cy="70"  r="2.4"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.3s" repeatCount="indefinite"/></circle>
+      <circle cx="150" cy="130" r="2"><animate attributeName="opacity" values="1;0.4;1" dur="2.7s" repeatCount="indefinite"/></circle>
+      <circle cx="250" cy="60"  r="2.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.9s" repeatCount="indefinite"/></circle>
+      <circle cx="470" cy="70"  r="2.6"><animate attributeName="opacity" values="1;0.3;1" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="520" cy="120" r="2"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/></circle>
+      <circle cx="600" cy="60"  r="2.2"><animate attributeName="opacity" values="1;0.4;1" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="770" cy="80"  r="2.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="845" cy="185" r="2.2"><animate attributeName="opacity" values="1;0.4;1" dur="3.6s" repeatCount="indefinite"/></circle>
+      <circle cx="655" cy="215" r="2"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="430" cy="235" r="2.2"><animate attributeName="opacity" values="1;0.3;1" dur="3.2s" repeatCount="indefinite"/></circle>
+      <circle cx="330" cy="205" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.0s" repeatCount="indefinite"/></circle>
+      <circle cx="200" cy="245" r="2.4"><animate attributeName="opacity" values="1;0.4;1" dur="3.5s" repeatCount="indefinite"/></circle>
+    </g>
+    <g fill="#6a67a8" font-size="8.5" letter-spacing="1" opacity="0.75">
+      <text x="60"  y="62">MLOPS</text>
+      <text x="258" y="52">RAG</text>
+      <text x="452" y="62">AGENTS</text>
+      <text x="782" y="74">BEDROCK</text>
+      <text x="852" y="182">FAISS</text>
+      <text x="210" y="252">RRF</text>
+    </g>
+
+    <!-- ===== cinematic light sweep ===== -->
+    <g transform="skewX(-16)"><rect x="-320" y="-40" width="150" height="440" fill="url(#sweep)"><animate attributeName="x" values="-360;1160" dur="7s" repeatCount="indefinite"/></rect></g>
+
+    <!-- ===== title (neon flicker) ===== -->
+    <g text-anchor="middle" font-weight="700" font-size="40" letter-spacing="2">
       <g fill="#241a4d">
-        <text x="452" y="86.5">TAIMOUR ABDUL KARIM</text>
-        <text x="453.2" y="88">TAIMOUR ABDUL KARIM</text>
-        <text x="454.4" y="89.5">TAIMOUR ABDUL KARIM</text>
-        <text x="455.6" y="91">TAIMOUR ABDUL KARIM</text>
+        <text x="452" y="120.5">TAIMOUR ABDUL KARIM</text>
+        <text x="453.4" y="122">TAIMOUR ABDUL KARIM</text>
+        <text x="454.8" y="123.5">TAIMOUR ABDUL KARIM</text>
       </g>
-      <text x="450" y="85" fill="url(#titleGrad)" filter="url(#glow)">TAIMOUR ABDUL KARIM</text>
+      <g fill="url(#titleGrad)" filter="url(#glow)">
+        <text x="450" y="119">TAIMOUR ABDUL KARIM</text>
+        <animate attributeName="opacity" values="1;1;0.35;1;0.8;1;1;0.55;1;1" keyTimes="0;0.46;0.49;0.52;0.66;0.69;0.86;0.89;0.92;1" dur="5.5s" repeatCount="indefinite"/>
+      </g>
     </g>
-    <text x="450" y="110" text-anchor="middle" fill="#8ea2ff" font-size="12" letter-spacing="4.5" opacity="0.9">
+    <text x="450" y="145" text-anchor="middle" fill="#8ea2ff" font-size="12" letter-spacing="4.5" opacity="0.92">
       LLM EVALUATION &amp; SAFETY · RAG · AGENTS · MLOPS
     </text>
 
-    <!-- energy beam -->
-    <line x1="160" y1="150" x2="760" y2="150" stroke="url(#beam)" stroke-width="2.5" stroke-linecap="round" filter="url(#glow)"/>
-    <line x1="160" y1="150" x2="760" y2="150" stroke="#c9a6ff" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 14" opacity="0.7">
-      <animate attributeName="stroke-dashoffset" values="0;-72" dur="1.3s" repeatCount="indefinite"/>
-    </line>
-    <circle r="7" fill="#ffffff" filter="url(#bloom)">
-      <animate attributeName="cx" values="160;760;160" keyTimes="0;0.5;1" dur="4.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
-      <animate attributeName="cy" values="150;150;150" dur="4.6s" repeatCount="indefinite"/>
-    </circle>
+    <!-- ===== pipeline conduit ===== -->
+    <use xlink:href="#conduit" stroke="url(#conduitGrad)" stroke-width="3" filter="url(#glow)" stroke-linecap="round"/>
+    <use xlink:href="#conduit" stroke="#e7ddff" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="3 13" opacity="0.8">
+      <animate attributeName="stroke-dashoffset" values="0;-64" dur="1.2s" repeatCount="indefinite"/>
+    </use>
 
-    <!-- nodes: 3D orbs on the pipeline -->
+    <!-- data packets (comets) traveling the conduit -->
+    <circle r="6" fill="url(#pkt)"><animateMotion dur="3.6s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath xlink:href="#conduit"/></animateMotion></circle>
+    <circle r="4.5" fill="url(#pkt)"><animateMotion dur="3.6s" begin="1.2s" repeatCount="indefinite"><mpath xlink:href="#conduit"/></animateMotion></circle>
+    <circle r="3.5" fill="url(#pkt)"><animateMotion dur="3.6s" begin="2.4s" repeatCount="indefinite"><mpath xlink:href="#conduit"/></animateMotion></circle>
+
+    <!-- ===== hubs: DATA MODEL EVAL SHIP ===== -->
     <g font-size="12" font-weight="600" letter-spacing="1.6" text-anchor="middle">
-      <!-- DATA -->
-      <g transform="translate(160,150)">
-        <animateTransform attributeName="transform" type="translate" values="160 150;160 144;160 150" dur="3.4s" begin="0s" repeatCount="indefinite"/>
-        <ellipse cx="0" cy="30" rx="20" ry="5" fill="#000" opacity="0.35"/>
-        <ellipse rx="30" ry="11" fill="none" stroke="#7aa2f7" stroke-width="1.4" stroke-dasharray="30 12" opacity="0.85">
-          <animateTransform attributeName="transform" type="rotate" values="0;360" dur="6s" repeatCount="indefinite"/>
-        </ellipse>
-        <circle r="17" fill="url(#sBlue)" filter="url(#glow)"/>
-        <ellipse cx="-5" cy="-6" rx="5.5" ry="3.5" fill="#ffffff" opacity="0.65"/>
-        <text y="52" fill="#7aa2f7">DATA</text>
+      <g transform="translate(150,168)">
+        <circle r="12" fill="none" stroke="#7aa2f7"><animate attributeName="r" values="12;30;12" dur="2.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0.8" dur="2.6s" repeatCount="indefinite"/></circle>
+        <circle r="14" fill="url(#sBlue)" filter="url(#glow)"/><ellipse cx="-4" cy="-5" rx="4.5" ry="3" fill="#fff" opacity="0.6"/>
+        <text y="34" fill="#7aa2f7">DATA</text>
       </g>
-      <!-- MODEL -->
-      <g transform="translate(360,150)">
-        <animateTransform attributeName="transform" type="translate" values="360 150;360 143;360 150" dur="3.4s" begin="0.5s" repeatCount="indefinite"/>
-        <ellipse cx="0" cy="30" rx="20" ry="5" fill="#000" opacity="0.35"/>
-        <ellipse rx="30" ry="11" fill="none" stroke="#6C63FF" stroke-width="1.4" stroke-dasharray="30 12" opacity="0.9">
-          <animateTransform attributeName="transform" type="rotate" values="360;0" dur="5.4s" repeatCount="indefinite"/>
-        </ellipse>
-        <circle r="17" fill="url(#sPurple)" filter="url(#glow)"/>
-        <ellipse cx="-5" cy="-6" rx="5.5" ry="3.5" fill="#ffffff" opacity="0.65"/>
-        <text y="52" fill="#9d92ff">MODEL</text>
+      <g transform="translate(360,146)">
+        <circle r="12" fill="none" stroke="#6C63FF"><animate attributeName="r" values="12;30;12" dur="2.6s" begin="0.65s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0.8" dur="2.6s" begin="0.65s" repeatCount="indefinite"/></circle>
+        <circle r="14" fill="url(#sPurple)" filter="url(#glow)"/><ellipse cx="-4" cy="-5" rx="4.5" ry="3" fill="#fff" opacity="0.6"/>
+        <text y="-24" fill="#9d92ff">MODEL</text>
       </g>
-      <!-- EVAL -->
       <g transform="translate(560,150)">
-        <animateTransform attributeName="transform" type="translate" values="560 150;560 144;560 150" dur="3.4s" begin="1s" repeatCount="indefinite"/>
-        <ellipse cx="0" cy="30" rx="20" ry="5" fill="#000" opacity="0.35"/>
-        <ellipse rx="30" ry="11" fill="none" stroke="#bb9af7" stroke-width="1.4" stroke-dasharray="30 12" opacity="0.9">
-          <animateTransform attributeName="transform" type="rotate" values="0;360" dur="6.6s" repeatCount="indefinite"/>
-        </ellipse>
-        <circle r="17" fill="url(#sViolet)" filter="url(#glow)"/>
-        <ellipse cx="-5" cy="-6" rx="5.5" ry="3.5" fill="#ffffff" opacity="0.65"/>
-        <text y="52" fill="#bb9af7">EVAL</text>
+        <circle r="12" fill="none" stroke="#bb9af7"><animate attributeName="r" values="12;30;12" dur="2.6s" begin="1.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0.8" dur="2.6s" begin="1.3s" repeatCount="indefinite"/></circle>
+        <circle r="14" fill="url(#sViolet)" filter="url(#glow)"/><ellipse cx="-4" cy="-5" rx="4.5" ry="3" fill="#fff" opacity="0.6"/>
+        <text y="34" fill="#bb9af7">EVAL</text>
       </g>
-      <!-- SHIP -->
-      <g transform="translate(760,150)">
-        <animateTransform attributeName="transform" type="translate" values="760 150;760 143;760 150" dur="3.4s" begin="1.5s" repeatCount="indefinite"/>
-        <ellipse cx="0" cy="30" rx="20" ry="5" fill="#000" opacity="0.35"/>
-        <ellipse rx="30" ry="11" fill="none" stroke="#9ece6a" stroke-width="1.4" stroke-dasharray="30 12" opacity="0.9">
-          <animateTransform attributeName="transform" type="rotate" values="360;0" dur="5.8s" repeatCount="indefinite"/>
-        </ellipse>
-        <circle r="17" fill="url(#sGreen)" filter="url(#glow)"/>
-        <ellipse cx="-5" cy="-6" rx="5.5" ry="3.5" fill="#ffffff" opacity="0.7"/>
-        <text y="52" fill="#9ece6a">SHIP</text>
+      <g transform="translate(750,140)">
+        <circle r="12" fill="none" stroke="#9ece6a"><animate attributeName="r" values="12;30;12" dur="2.6s" begin="1.95s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0.8" dur="2.6s" begin="1.95s" repeatCount="indefinite"/></circle>
+        <circle r="14" fill="url(#sGreen)" filter="url(#glow)"/><ellipse cx="-4" cy="-5" rx="4.5" ry="3" fill="#fff" opacity="0.7"/>
+        <text y="-24" fill="#9ece6a">SHIP</text>
       </g>
     </g>
 
-    <!-- baseline tag -->
-    <g transform="translate(28,276)">
-      <line x1="0" y1="-4" x2="24" y2="-4" stroke="#6b6a90" stroke-width="1.4" stroke-dasharray="3 3"/>
-      <text x="32" y="0" fill="#8a89b3" font-size="11" letter-spacing="1">every result stated against a baseline</text>
+    <!-- ===== HUD frame ===== -->
+    <g stroke="#6C63FF" stroke-width="1.6" fill="none" opacity="0.8">
+      <path d="M22,22 h34 M22,22 v34"/>
+      <path d="M878,22 h-34 M878,22 v34"/>
+      <path d="M22,298 h34 M22,298 v-34"/>
+      <path d="M878,298 h-34 M878,298 v-34"/>
     </g>
+    <g font-size="10" letter-spacing="1.5">
+      <circle cx="40" cy="44" r="3" fill="#9ece6a"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+      <text x="50" y="47" fill="#8a89b3">SYSTEM ONLINE</text>
+      <text x="860" y="47" text-anchor="end" fill="#8a89b3">MODE: BUILD</text>
+    </g>
+    <!-- eval HUD meter -->
+    <g transform="translate(720,286)" font-size="10" letter-spacing="1">
+      <text x="0" y="0" fill="#8a89b3">EVAL</text>
+      <rect x="34" y="-8" width="94" height="7" rx="3.5" fill="#211c3d"/>
+      <rect x="34" y="-8" width="10" height="7" rx="3.5" fill="#9ece6a">
+        <animate attributeName="width" values="10;88;10" dur="4.6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="134" y="0" fill="#9ece6a">PASS</text>
+    </g>
+    <text x="40" y="290" fill="#8a89b3" font-size="10" letter-spacing="1">every result stated against a baseline</text>
 
-    <!-- cinematic letterbox -->
-    <rect x="0" y="0" width="900" height="10" fill="#000" opacity="0.55"/>
-    <rect x="0" y="290" width="900" height="10" fill="#000" opacity="0.55"/>
-    <rect x="1" y="1" width="898" height="298" rx="20" fill="none" stroke="#3a3568" stroke-width="1.5"/>
+    <!-- CRT scan + letterbox + vignette -->
+    <rect x="0" y="0" width="900" height="2.5" fill="#c9b6ff" opacity="0.10"><animate attributeName="y" values="-4;322" dur="5.5s" repeatCount="indefinite"/></rect>
+    <rect width="900" height="320" fill="url(#vign)"/>
+    <rect x="0" y="0" width="900" height="9" fill="#000" opacity="0.5"/>
+    <rect x="0" y="311" width="900" height="9" fill="#000" opacity="0.5"/>
+    <rect x="1" y="1" width="898" height="318" rx="22" fill="none" stroke="#3a3568" stroke-width="1.5"/>
   </g>
 </svg>

@@ -45,7 +45,7 @@ AI/ML Engineer and Data Scientist with **3+ years** building production machine-
 <h2 align="center">🧬 How I Ship</h2>
 
 <p align="center">
-<img width="90%" alt="Data to Ship pipeline animation" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/assets/pipeline.svg?v=2"/>
+<img width="90%" alt="Data to Ship pipeline animation" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/assets/pipeline.svg?v=3"/>
 </p>
 
 <br/>
