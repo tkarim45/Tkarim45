@@ -126,8 +126,11 @@ Input/output safety firewall: prompt-injection detection, PII redaction, toxicit
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-<img width="49%" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/github-metrics.svg" alt="GitHub Metrics — stats, languages, habits"/>
-<img width="49%" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/github-metrics-calendar.svg" alt="GitHub Metrics — contribution calendar"/>
+<img width="99%" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/github-metrics.svg" alt="GitHub Metrics — stats, languages, habits"/>
+</p>
+
+<p align="center">
+<img width="46%" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/github-metrics-calendar.svg" alt="GitHub Metrics — contribution calendar"/>
 </p>
 
 <p align="center">
