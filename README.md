@@ -12,34 +12,51 @@
 
 <br/>
 
-<img align="right" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
-
 <h2>👋 About Me</h2>
 
-<p align="justify">
-AI/ML Engineer & Data Scientist with <b>3+ years</b> shipping production machine-learning and generative-AI systems. I specialize in <b>LLM evaluation & safety</b>, <b>Retrieval-Augmented Generation</b>, and <b>AI agent systems</b> — owning architecture, delivery, and operations end to end, from data pipelines to deployment.
-</p>
+<table>
+<tr>
+<td width="62%" valign="top">
 
-- 🔭 Currently building **[Bryge.io](https://bryge.io)** — a multi-tenant industrial IoT analytics platform — as AI/ML Engineer at **Datality** (London, remote)
-- 🤖 I don't just build LLM apps — I **measure** them: a 12-project evaluation & safety portfolio
-- 🌱 Deep in **RAG, AI agents, MLOps, and causal/classical ML** — every result stated against a baseline
+AI/ML Engineer and Data Scientist with **3+ years** building production machine-learning and generative-AI systems. I work on **LLM evaluation and safety**, **Retrieval-Augmented Generation**, and **AI agent systems**, and I own the full path from data pipeline to deployment: architecture, delivery, and operations.
+
+- 🔭 Building **[Bryge.io](https://bryge.io)**, a multi-tenant industrial IoT analytics platform, as AI/ML Engineer at **Datality** (London, remote)
+- 🤖 I build LLM apps and I **measure** them. My portfolio has **12 evaluation and safety projects**.
+- 🌱 Working across **RAG, AI agents, MLOps, and causal/classical ML**
 - 🎓 **MSc Artificial Intelligence** @ LUMS · **BSc Data Science** @ FAST-NUCES
 - 💬 Ask me about **LLMs · RAG · LangChain · Evaluation harnesses · MLOps**
 - 📫 Reach me at **taimour.a.karim@gmail.com**
 - ⚡ Fun fact: I like Golf ⛳
 
-<br clear="right"/>
+</td>
+<td width="38%" valign="top" align="center">
+<img width="100%" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
+</td>
+</tr>
+</table>
 
 <h2 align="center">🏆 Achievements & Recognition</h2>
 
 <p align="center">
-<a href="https://oosmetrics.com/repo/tkarim45/Beginner-Data-Science-Projects"><img src="https://api.oosmetrics.com/api/v1/badge/achievement/70b56dae-ab3a-41cd-8056-643b945105f2.svg" alt="oosmetrics — Top 3 in Notebooks by acceleration"/></a>
-<a href="https://oosmetrics.com/repo/tkarim45/Beginner-Data-Science-Projects"><img src="https://api.oosmetrics.com/api/v1/badge/achievement/f085a878-77fe-4f02-81f5-b378421b876c.svg" alt="oosmetrics — Top 9 in Training by acceleration"/></a>
-<a href="https://oosmetrics.com/repo/tkarim45/Beginner-Data-Science-Projects"><img src="https://api.oosmetrics.com/api/v1/badge/achievement/c9879781-6316-45a4-b274-3fc5159d0237.svg" alt="oosmetrics — Top 10 in Educational by velocity"/></a>
+<a href="https://github.com/tkarim45/Beginner-Data-Science-Projects"><img src="https://img.shields.io/badge/2%2C400%2B%20Stars-Beginner%20Data%20Science%20Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Beginner Data Science Projects"/></a>
 </p>
 
 <p align="center">
-<i><a href="https://github.com/tkarim45/Beginner-Data-Science-Projects">Beginner-Data-Science-Projects</a> — 2,400+ ⭐ · ranked by <a href="https://oosmetrics.com">oosmetrics</a> Top 3 (Notebooks) · Top 9 (Training) · Top 10 (Educational)</i>
+<img src="https://img.shields.io/badge/oosmetrics-Top%203%20·%20Notebooks-FFD700?style=flat-square&labelColor=1a1b27" alt="Top 3 Notebooks"/>
+<img src="https://img.shields.io/badge/oosmetrics-Top%209%20·%20Training-C0C0C0?style=flat-square&labelColor=1a1b27" alt="Top 9 Training"/>
+<img src="https://img.shields.io/badge/oosmetrics-Top%2010%20·%20Educational-CD7F32?style=flat-square&labelColor=1a1b27" alt="Top 10 Educational"/>
+</p>
+
+<p align="center">
+<i><a href="https://github.com/tkarim45/Beginner-Data-Science-Projects">Beginner-Data-Science-Projects</a> · 2,400+ ⭐ · ranked Top 3 (Notebooks), Top 9 (Training), Top 10 (Educational) by growth acceleration</i>
+</p>
+
+<br/>
+
+<h2 align="center">🧬 How I Ship</h2>
+
+<p align="center">
+<img width="90%" alt="Data to Ship pipeline animation" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/assets/pipeline.svg"/>
 </p>
 
 <br/>
@@ -58,7 +75,7 @@ Reproducible fairness-audit framework for clinical LLMs. Introduces the **Geogra
 <td width="50%" valign="top">
 
 **📄 [sec-rag-analyst](https://github.com/tkarim45/sec-rag-analyst)**<br/>
-Production RAG over SEC 10-K filings — hybrid BM25+dense retrieval, RRF fusion, cross-encoder rerank, inline citations, labeled eval.<br/>
+Production RAG over SEC 10-K filings: hybrid BM25+dense retrieval, RRF fusion, cross-encoder rerank, inline citations, labeled eval.<br/>
 `Claude` · `FAISS` · `BGE` · `Docker`
 
 </td>
@@ -67,14 +84,14 @@ Production RAG over SEC 10-K filings — hybrid BM25+dense retrieval, RRF fusion
 <td width="50%" valign="top">
 
 **🏥 [CureWise-AI-Medical-Healthcare](https://github.com/tkarim45/CureWise-AI-Medical-Healthcare)**<br/>
-Deployed healthcare platform — conversational AI, medical-report parsing, RAG, image-based disease detection, realtime DB agents.<br/>
+Deployed healthcare platform: conversational AI, medical-report parsing, RAG, image-based disease detection, realtime DB agents.<br/>
 `OpenAI` · `Groq/Llama` · `Pinecone` · `React`
 
 </td>
 <td width="50%" valign="top">
 
 **⚙️ [credit-default-mlops](https://github.com/tkarim45/credit-default-mlops)**<br/>
-End-to-end MLOps — versioned data → tracked model → CI quality gate → drift detection → instrumented serving.<br/>
+End-to-end MLOps: versioned data → tracked model → CI quality gate → drift detection → instrumented serving.<br/>
 `DVC` · `MLflow` · `Evidently` · `Prometheus`
 
 </td>
@@ -83,14 +100,14 @@ End-to-end MLOps — versioned data → tracked model → CI quality gate → dr
 <td width="50%" valign="top">
 
 **🧩 [rag-architectures](https://github.com/tkarim45/rag-architectures)**<br/>
-**13 RAG architectures** benchmarked on one corpus — naive → hybrid → GraphRAG → RAPTOR → agentic — scored on recall + LLM-judged accuracy.<br/>
+**13 RAG architectures** benchmarked on one corpus, from naive → hybrid → GraphRAG → RAPTOR → agentic, scored on recall + LLM-judged accuracy.<br/>
 `sentence-transformers` · `FAISS` · `Bedrock`
 
 </td>
 <td width="50%" valign="top">
 
 **🛡️ [llm-guardrails](https://github.com/tkarim45/llm-guardrails)**<br/>
-Input/output safety firewall — prompt-injection detection, PII redaction, toxicity filters. Macro-F1 **1.0**, zero benign false positives.<br/>
+Input/output safety firewall: prompt-injection detection, PII redaction, toxicity filters. Macro-F1 **1.0**, zero benign false positives.<br/>
 `FastAPI` · `Claude judge` · `regex heuristics`
 
 </td>
@@ -171,6 +188,6 @@ Input/output safety firewall — prompt-injection detection, PII redaction, toxi
 
 <br/>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/tkarim45">tkarim45</a> — every result stated against a baseline.</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/tkarim45">tkarim45</a>. Every result stated against a baseline.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer"/>
