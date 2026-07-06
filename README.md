@@ -42,14 +42,6 @@ AI/ML Engineer and Data Scientist with **3+ years** building production machine-
 
 <br/>
 
-<h2 align="center">🧬 How I Ship</h2>
-
-<p align="center">
-<img width="90%" alt="Shipping and measuring LLM systems" src="https://raw.githubusercontent.com/tkarim45/Tkarim45/main/assets/pipeline.svg?v=4"/>
-</p>
-
-<br/>
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
