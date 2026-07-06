@@ -14,10 +14,6 @@
 
 <h2>👋 About Me</h2>
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 AI/ML Engineer and Data Scientist with **3+ years** building production machine-learning and generative-AI systems. I work on **LLM evaluation and safety**, **Retrieval-Augmented Generation**, and **AI agent systems**, and I own the full path from data pipeline to deployment: architecture, delivery, and operations.
 
 - 🔭 Building **[Bryge.io](https://bryge.io)**, a multi-tenant industrial IoT analytics platform, as AI/ML Engineer at **Datality** (London, remote)
@@ -27,13 +23,6 @@ AI/ML Engineer and Data Scientist with **3+ years** building production machine-
 - 💬 Ask me about **LLMs · RAG · LangChain · Evaluation harnesses · MLOps**
 - 📫 Reach me at **taimour.a.karim@gmail.com**
 - ⚡ Fun fact: I like Golf ⛳
-
-</td>
-<td width="38%" valign="top" align="center">
-<img width="100%" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
-</td>
-</tr>
-</table>
 
 <h2 align="center">🏆 Achievements & Recognition</h2>
 
@@ -143,15 +132,6 @@ Input/output safety firewall: prompt-injection detection, PII redaction, toxicit
 <br/>
 
 <h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=tkarim45&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Stats"/>
-<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkarim45&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=tkarim45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkarim45&theme=tokyonight" alt="Stats"/>
