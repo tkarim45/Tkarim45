@@ -47,7 +47,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          # Flat, horizontal contribution calendar (not the 3D isocalendar)
-          # Current year only
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
+          # 3D isometric contribution calendar (last 12 months)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
