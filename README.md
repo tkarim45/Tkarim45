@@ -6,7 +6,8 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=tkarim45&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/GitHub%20Stars-2.5k%2B-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+<img src="https://img.shields.io/badge/GitHub%20Stars-3k%2B-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+<img src="https://img.shields.io/badge/Followers-487-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
 <img src="https://img.shields.io/badge/🏆%20Genesis%20Hackathon%20Dubai-2nd%20Place-FFD700?style=for-the-badge&logoColor=black" alt="Hackathon"/>
 </p>
 
@@ -27,7 +28,7 @@ AI/ML Engineer and Data Scientist with **3+ years** building production machine-
 <h2 align="center">🏆 Achievements & Recognition</h2>
 
 <p align="center">
-<a href="https://github.com/tkarim45/Beginner-Data-Science-Projects"><img src="https://img.shields.io/badge/2%2C400%2B%20Stars-Beginner%20Data%20Science%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Beginner Data Science Projects"/></a>
+<a href="https://github.com/tkarim45/Beginner-Data-Science-Projects"><img src="https://img.shields.io/badge/2%2C900%2B%20Stars-Beginner%20Data%20Science%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Beginner Data Science Projects"/></a>
 </p>
 
 <p align="center">
@@ -37,7 +38,7 @@ AI/ML Engineer and Data Scientist with **3+ years** building production machine-
 </p>
 
 <p align="center">
-<i><a href="https://github.com/tkarim45/Beginner-Data-Science-Projects">Beginner-Data-Science-Projects</a> · 2,400+ ⭐ · ranked Top 3 (Notebooks), Top 9 (Training), Top 10 (Educational) by growth acceleration</i>
+<i><a href="https://github.com/tkarim45/Beginner-Data-Science-Projects">Beginner-Data-Science-Projects</a> · 2,900+ ⭐ · ranked Top 3 (Notebooks), Top 9 (Training), Top 10 (Educational) by growth acceleration</i>
 </p>
 
 <br/>
@@ -64,9 +65,9 @@ Production RAG over SEC 10-K filings: hybrid BM25+dense retrieval, RRF fusion, c
 <tr>
 <td width="50%" valign="top">
 
-**🏥 [CureWise-AI-Medical-Healthcare](https://github.com/tkarim45/CureWise-AI-Medical-Healthcare)**<br/>
-Deployed healthcare platform: conversational AI, medical-report parsing, RAG, image-based disease detection, realtime DB agents.<br/>
-`OpenAI` · `Groq/Llama` · `Pinecone` · `React`
+**🧩 [rag-architectures](https://github.com/tkarim45/rag-architectures)**<br/>
+**13 RAG architectures** benchmarked on one corpus, naive through GraphRAG, RAPTOR, and agentic. Query-transform methods score 0% on multi-hop; agentic and RAPTOR reach 83%.<br/>
+`sentence-transformers` · `FAISS` · `Bedrock`
 
 </td>
 <td width="50%" valign="top">
@@ -80,23 +81,23 @@ End-to-end MLOps: versioned data → tracked model → CI quality gate → drift
 <tr>
 <td width="50%" valign="top">
 
-**🧩 [rag-architectures](https://github.com/tkarim45/rag-architectures)**<br/>
-**13 RAG architectures** benchmarked on one corpus, from naive → hybrid → GraphRAG → RAPTOR → agentic, scored on recall + LLM-judged accuracy.<br/>
-`sentence-transformers` · `FAISS` · `Bedrock`
+**🖥️ [model-serving](https://github.com/tkarim45/model-serving)**<br/>
+Production inference platform. Dynamic micro-batching measured at **8.0x throughput** (121 to 966 RPS), plus canary and shadow deploys and load shedding, all load-tested over real HTTP.<br/>
+`FastAPI` · `asyncio` · `Prometheus` · `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-**🛡️ [llm-guardrails](https://github.com/tkarim45/llm-guardrails)**<br/>
-Input/output safety firewall: prompt-injection detection, PII redaction, toxicity filters. Macro-F1 **1.0**, zero benign false positives.<br/>
-`FastAPI` · `Claude judge` · `regex heuristics`
+**🎯 [uplift-targeting-engine](https://github.com/tkarim45/uplift-targeting-engine)**<br/>
+Causal uplift modeling: S/T/X/R meta-learners predict per-user incremental effect, scored with Qini and policy value. Beats random targeting at a fixed budget.<br/>
+`Meta-learners` · `XGBoost` · `econml` · `FastAPI`
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<i>+ a 12-project LLM evaluation & safety cluster: red-teaming · hallucination benchmarks · LLM-as-judge · prompt-regression CI · agent-eval-harness · MCP servers</i>
+<i>+ a deep LLM evaluation & safety cluster: llm-gateway · realtime-ml-pipeline · red-teaming · hallucination benchmarks · LLM-as-judge · prompt-regression CI · agent-eval-harness · llm-guardrails · llm-observability · MCP server. See them all at <a href="https://taimour-a-karim.vercel.app">taimour-a-karim.vercel.app</a>.</i>
 </p>
 
 <br/>
